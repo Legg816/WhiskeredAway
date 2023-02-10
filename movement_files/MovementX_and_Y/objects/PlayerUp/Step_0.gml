@@ -108,9 +108,9 @@ if (l12989506_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 65CA56D7
 	/// @DnDParent : 12989506
-	/// @DnDArgument : "spriteind" "Sprite6"
-	/// @DnDSaveInfo : "spriteind" "Sprite6"
-	sprite_index = Sprite6;
+	/// @DnDArgument : "spriteind" "Sprite7"
+	/// @DnDSaveInfo : "spriteind" "Sprite7"
+	sprite_index = Sprite7;
 	image_index = 0;
 }
 

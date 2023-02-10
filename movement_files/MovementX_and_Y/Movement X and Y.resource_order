@@ -19,6 +19,7 @@
     {"name":"OliverBack","order":3,"path":"sprites/OliverBack/OliverBack.yy",},
     {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"OliverLeft","order":1,"path":"sprites/OliverLeft/OliverLeft.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"OliverRight","order":2,"path":"sprites/OliverRight/OliverRight.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
   ],

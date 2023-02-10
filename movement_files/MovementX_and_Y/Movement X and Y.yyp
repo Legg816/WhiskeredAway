@@ -37,6 +37,7 @@
     {"id":{"name":"OliverStanding","path":"sprites/OliverStanding/OliverStanding.yy",},"order":0,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":0,},
     {"id":{"name":"OliverLeft","path":"sprites/OliverLeft/OliverLeft.yy",},"order":0,},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"OliverRight","path":"sprites/OliverRight/OliverRight.yy",},"order":0,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
