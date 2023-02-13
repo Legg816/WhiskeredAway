@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":13,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
+    {"name":"Objects","order":7,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":8,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Notes","order":11,"path":"folders/Notes.yy",},
+    {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+    {"name":"OliverBack","order":3,"path":"sprites/OliverBack/OliverBack.yy",},
+    {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"OliverLeft","order":1,"path":"sprites/OliverLeft/OliverLeft.yy",},
+    {"name":"Sprite7","order":5,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"OliverRight","order":2,"path":"sprites/OliverRight/OliverRight.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
