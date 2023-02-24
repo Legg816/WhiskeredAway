@@ -32,6 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"ITEMgeneric","path":"sprites/ITEMgeneric/ITEMgeneric.yy",},"order":0,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":0,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":0,},
     {"id":{"name":"OliverBack","path":"sprites/OliverBack/OliverBack.yy",},"order":0,},
@@ -40,12 +41,14 @@
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":0,},
     {"id":{"name":"OliverLeft","path":"sprites/OliverLeft/OliverLeft.yy",},"order":0,},
     {"id":{"name":"MovementLeft","path":"sprites/MovementLeft/MovementLeft.yy",},"order":0,},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"MovementRight","path":"sprites/MovementRight/MovementRight.yy",},"order":0,},
     {"id":{"name":"MovementUp","path":"sprites/MovementUp/MovementUp.yy",},"order":0,},
     {"id":{"name":"OliverRight","path":"sprites/OliverRight/OliverRight.yy",},"order":0,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"MovementDown","path":"sprites/MovementDown/MovementDown.yy",},"order":0,},
+    {"id":{"name":"ItemPickup","path":"objects/ItemPickup/ItemPickup.yy",},"order":0,},
     {"id":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"order":0,},
   ],
   "RoomOrderNodes": [

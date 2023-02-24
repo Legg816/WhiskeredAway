@@ -15,6 +15,7 @@
     {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"ITEMgeneric","order":14,"path":"sprites/ITEMgeneric/ITEMgeneric.yy",},
     {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite11","order":4,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"OliverBack","order":3,"path":"sprites/OliverBack/OliverBack.yy",},
@@ -22,10 +23,12 @@
     {"name":"Sprite6","order":4,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"OliverLeft","order":1,"path":"sprites/OliverLeft/OliverLeft.yy",},
     {"name":"MovementLeft","order":5,"path":"sprites/MovementLeft/MovementLeft.yy",},
+    {"name":"Sprite13","order":15,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"MovementRight","order":7,"path":"sprites/MovementRight/MovementRight.yy",},
     {"name":"MovementUp","order":8,"path":"sprites/MovementUp/MovementUp.yy",},
     {"name":"OliverRight","order":2,"path":"sprites/OliverRight/OliverRight.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"MovementDown","order":6,"path":"sprites/MovementDown/MovementDown.yy",},
+    {"name":"ItemPickup","order":1,"path":"objects/ItemPickup/ItemPickup.yy",},
   ],
 }
