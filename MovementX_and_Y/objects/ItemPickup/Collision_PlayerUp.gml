@@ -6,15 +6,6 @@
 /// @DnDArgument : "var" "other.pots_collected"
 other.pots_collected += 1;
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 089CC722
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Press E to Pickup ""
-/// @DnDArgument : "var" "other.pots_collected"
-draw_text(x + 0, y + 0, string("Press E to Pickup ") + string(other.pots_collected));
-
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 37DAC7A6
@@ -35,8 +26,9 @@ if (l37DAC7A6_0)
 	/// @DnDParent : 37DAC7A6
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
+	/// @DnDArgument : "type" "4"
 	/// @DnDArgument : "where" "1"
 	/// @DnDArgument : "size" "2"
 	/// @DnDArgument : "color" "$FF0000FF"
-	effect_create_above(0, x + 0, y + 0, 2, $FF0000FF & $ffffff);
+	effect_create_above(4, x + 0, y + 0, 2, $FF0000FF & $ffffff);
 }
