@@ -34,8 +34,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "ITEMgeneric",
+    "path": "sprites/ITEMgeneric/ITEMgeneric.yy",
   },
   "spriteMaskId": null,
   "visible": true,

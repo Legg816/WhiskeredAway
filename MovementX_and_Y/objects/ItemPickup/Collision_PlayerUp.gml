@@ -1,29 +1,21 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
-/// @DnDHash : 035CD21A
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "other.pots_collected"
-other.pots_collected += 1;
-
-/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
-/// @DnDVersion : 1
-/// @DnDHash : 37DAC7A6
+/// @DnDHash : 36A80A26
 /// @DnDArgument : "key" "ord("E")"
-var l37DAC7A6_0;
-l37DAC7A6_0 = keyboard_check(ord("E"));
-if (l37DAC7A6_0)
+var l36A80A26_0;
+l36A80A26_0 = keyboard_check_pressed(ord("E"));
+if (l36A80A26_0)
 {
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 040D2885
-	/// @DnDParent : 37DAC7A6
+	/// @DnDParent : 36A80A26
 	instance_destroy();
 
 	/// @DnDAction : YoYo Games.Particles.Effect
 	/// @DnDVersion : 1
 	/// @DnDHash : 592D568B
-	/// @DnDParent : 37DAC7A6
+	/// @DnDParent : 36A80A26
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
 	/// @DnDArgument : "type" "4"
