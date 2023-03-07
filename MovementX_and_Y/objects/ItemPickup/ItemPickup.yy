@@ -32,7 +32,7 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "ITEMgeneric",
     "path": "sprites/ITEMgeneric/ITEMgeneric.yy",
