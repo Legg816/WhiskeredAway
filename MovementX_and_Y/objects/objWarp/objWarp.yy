@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objWarp",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite21",
-    "path": "sprites/Sprite21/Sprite21.yy",
+    "name": "Sprite20",
+    "path": "sprites/Sprite20/Sprite20.yy",
   },
   "spriteMaskId": null,
   "visible": true,

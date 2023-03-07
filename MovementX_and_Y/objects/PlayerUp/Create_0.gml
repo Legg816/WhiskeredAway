@@ -1,2 +1,2 @@
 walkSpeed = 7
-collisionSpeed = walkSpeed + 1
+collisionSpeed = walkSpeed + 2

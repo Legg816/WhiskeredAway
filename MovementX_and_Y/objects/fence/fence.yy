@@ -10,8 +10,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "objSolid",
-    "path": "objects/objSolid/objSolid.yy",
+    "name": "objCollide",
+    "path": "objects/objCollide/objCollide.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite20",
-    "path": "sprites/Sprite20/Sprite20.yy",
+    "name": "Sprite21",
+    "path": "sprites/Sprite21/Sprite21.yy",
   },
   "spriteMaskId": null,
   "visible": true,

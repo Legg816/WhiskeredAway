@@ -13,9 +13,9 @@
     {"name":"inst_4E4F88A5","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_43091C3A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2A86CB1B","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_55584555","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_39A7917D","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_1BD7367B","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1AFA55B1","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_D9AF700","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3B677719","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -24,9 +24,9 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRLayer","resourceVersion":"1.0","name":"Folder_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
         {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_3","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55584555","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"house","path":"objects/house/house.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_39A7917D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"fence","path":"objects/fence/fence.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1BD7367B","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":3.0625,"scaleY":2.71875,"x":1102.0,"y":601.0,},
+            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D9AF700","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"house","path":"objects/house/house.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B677719","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"fence","path":"objects/fence/fence.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+            {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AFA55B1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1141.0,"y":640.0,},
           ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
       ],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_2","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
