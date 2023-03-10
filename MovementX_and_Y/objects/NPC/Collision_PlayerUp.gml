@@ -11,7 +11,9 @@ if (l6F4FFCA6_0)
 	/// @DnDParent : 6F4FFCA6
 	/// @DnDArgument : "xpos" "330"
 	/// @DnDArgument : "ypos" "999"
-	/// @DnDArgument : "objectid" "Object4"
-	/// @DnDSaveInfo : "objectid" "Object4"
-	instance_create_layer(330, 999, "Instances", Object4);
+	/// @DnDArgument : "var_temp" "1"
+	/// @DnDArgument : "objectid" "TextBox"
+	/// @DnDArgument : "layer" ""Instances_2""
+	/// @DnDSaveInfo : "objectid" "TextBox"
+	instance_create_layer(330, 999, "Instances_2", TextBox);
 }
