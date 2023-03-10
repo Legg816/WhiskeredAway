@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object4",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
-  ],
+  "name": "Map_obj",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite17",
-    "path": "sprites/Sprite17/Sprite17.yy",
+    "name": "map",
+    "path": "sprites/map/map.yy",
   },
   "spriteMaskId": null,
   "visible": true,
