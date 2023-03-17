@@ -58,6 +58,7 @@
     {"id":{"name":"houseSprite","path":"sprites/houseSprite/houseSprite.yy",},},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
     {"id":{"name":"map","path":"sprites/map/map.yy",},},
+    {"id":{"name":"objWarpController","path":"objects/objWarpController/objWarpController.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"item_display","path":"objects/item_display/item_display.yy",},},
     {"id":{"name":"fence","path":"objects/fence/fence.yy",},},
@@ -68,7 +69,7 @@
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"MovementDown","path":"sprites/MovementDown/MovementDown.yy",},},
     {"id":{"name":"ItemPickup","path":"objects/ItemPickup/ItemPickup.yy",},},
-    {"id":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},},
+    {"id":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},},
     {"id":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},},
   ],
   "RoomOrderNodes": [

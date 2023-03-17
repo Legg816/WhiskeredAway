@@ -38,6 +38,7 @@
     {"name":"houseSprite","order":11,"path":"sprites/houseSprite/houseSprite.yy",},
     {"name":"Sprite13","order":15,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"map","order":13,"path":"sprites/map/map.yy",},
+    {"name":"objWarpController","order":14,"path":"objects/objWarpController/objWarpController.yy",},
     {"name":"item_display","order":11,"path":"objects/item_display/item_display.yy",},
     {"name":"fence","order":6,"path":"objects/fence/fence.yy",},
     {"name":"MovementRight","order":7,"path":"sprites/MovementRight/MovementRight.yy",},
@@ -47,6 +48,6 @@
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"MovementDown","order":6,"path":"sprites/MovementDown/MovementDown.yy",},
     {"name":"ItemPickup","order":1,"path":"objects/ItemPickup/ItemPickup.yy",},
-    {"name":"objWarp","order":3,"path":"objects/objWarp/objWarp.yy",},
+    {"name":"objWarpToRoom","order":3,"path":"objects/objWarpToRoom/objWarpToRoom.yy",},
   ],
 }
