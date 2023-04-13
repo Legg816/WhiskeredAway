@@ -28,9 +28,9 @@ if (l36A80A26_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 41BD4024
 	/// @DnDParent : 36A80A26
-	/// @DnDArgument : "ypos" "900"
+	/// @DnDArgument : "ypos" "850"
 	/// @DnDArgument : "objectid" "item_display"
 	/// @DnDArgument : "layer" ""map_layer""
 	/// @DnDSaveInfo : "objectid" "item_display"
-	instance_create_layer(0, 900, "map_layer", item_display);
+	instance_create_layer(0, 850, "map_layer", item_display);
 }
