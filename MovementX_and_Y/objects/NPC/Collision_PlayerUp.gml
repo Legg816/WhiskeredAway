@@ -16,4 +16,15 @@ if (l6F4FFCA6_0)
 	/// @DnDArgument : "layer" ""Instances_2""
 	/// @DnDSaveInfo : "objectid" "TextBox"
 	instance_create_layer(330, 999, "Instances_2", TextBox);
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 2750D588
+	/// @DnDParent : 6F4FFCA6
+	/// @DnDArgument : "xpos" "150"
+	/// @DnDArgument : "ypos" "900"
+	/// @DnDArgument : "objectid" "NPC"
+	/// @DnDArgument : "layer" ""Instances_2""
+	/// @DnDSaveInfo : "objectid" "NPC"
+	instance_create_layer(150, 900, "Instances_2", NPC);
 }

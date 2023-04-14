@@ -9,10 +9,14 @@ draw_set_alpha(l49C5F2BE_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Rectangle
 /// @DnDVersion : 1
 /// @DnDHash : 498A52C6
-/// @DnDArgument : "x2" "700"
+/// @DnDArgument : "x1_relative" "1"
+/// @DnDArgument : "y1_relative" "1"
+/// @DnDArgument : "x2" "800"
+/// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "100"
+/// @DnDArgument : "y2_relative" "1"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(0, 0, 700, 100, 0);
+draw_rectangle(x + 0, y + 0, x + 800, y + 100, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -25,6 +29,8 @@ draw_set_alpha(l45EBBF4D_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 69CF2825
-/// @DnDArgument : "caption" ""Hello, my name is John.""
-/// @DnDArgument : "var" """"
-draw_text(0, 0, string("Hello, my name is John.") + string(""));
+/// @DnDArgument : "x" "330"
+/// @DnDArgument : "y" "999"
+/// @DnDArgument : "caption" ""John: ""
+/// @DnDArgument : "var" "string_copy("Hey Oliver!", 1, letext)"
+draw_text(330, 999, string("John: ") + string(string_copy("Hey Oliver!", 1, letext)));
