@@ -49,6 +49,7 @@
     {"id":{"name":"objCollide","path":"objects/objCollide/objCollide.yy",},},
     {"id":{"name":"OliverBack","path":"sprites/OliverBack/OliverBack.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"TextBox","path":"objects/TextBox/TextBox.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
     {"id":{"name":"OliverStanding","path":"sprites/OliverStanding/OliverStanding.yy",},},
