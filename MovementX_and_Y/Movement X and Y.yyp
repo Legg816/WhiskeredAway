@@ -35,6 +35,7 @@
   "resources": [
     {"id":{"name":"obj_insidewall","path":"sprites/obj_insidewall/obj_insidewall.yy",},},
     {"id":{"name":"menu_screen","path":"sprites/menu_screen/menu_screen.yy",},},
+    {"id":{"name":"hint_wall","path":"sprites/hint_wall/hint_wall.yy",},},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"house","path":"objects/house/house.yy",},},
     {"id":{"name":"ITEMgeneric","path":"sprites/ITEMgeneric/ITEMgeneric.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"textBoxBG","path":"sprites/textBoxBG/textBoxBG.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"obj_map_toggle","path":"objects/obj_map_toggle/obj_map_toggle.yy",},},
+    {"id":{"name":"obj_hint_wall","path":"objects/obj_hint_wall/obj_hint_wall.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
