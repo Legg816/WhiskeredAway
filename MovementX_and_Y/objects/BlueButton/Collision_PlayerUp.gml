@@ -1,0 +1,1 @@
+global.BlueButtonPressed = 1;

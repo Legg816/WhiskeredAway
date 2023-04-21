@@ -25,9 +25,9 @@ if(hh >= 10)
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 14696674
-/// @DnDArgument : "expr" "hh + 1"
+/// @DnDArgument : "expr" "hh + 10"
 /// @DnDArgument : "var" "hh"
-hh = hh + 1;
+hh = hh + 10;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
@@ -40,7 +40,7 @@ if(hh <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 1F307A0C
 	/// @DnDParent : 6335BA33
-	/// @DnDArgument : "expr" "hh + 1"
+	/// @DnDArgument : "expr" "hh + 10"
 	/// @DnDArgument : "var" "hh"
-	hh = hh + 1;
+	hh = hh + 10;
 }
