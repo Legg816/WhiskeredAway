@@ -1,4 +1,1 @@
-if(global.GreenButtonPressed == 1)
-{	
-	global.RedButtonPressed = 1;
-}
+global.Button1Pressed = 1

@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "ResetButton",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

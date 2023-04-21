@@ -1,1 +1,1 @@
-global.BlueButtonPressed = 1;
+global.Button3Pressed = 1;

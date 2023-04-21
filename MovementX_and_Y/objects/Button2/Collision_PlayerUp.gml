@@ -1,1 +1,1 @@
-global.GreenButtonPressed = 1;
+global.Button2Pressed = 1;
