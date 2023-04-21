@@ -1,0 +1,1 @@
+global.GreenButtonPressed = 1;

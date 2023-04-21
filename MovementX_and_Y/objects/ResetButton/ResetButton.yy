@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Reset",
-    "path": "sprites/Reset/Reset.yy",
+    "name": "ResetAll",
+    "path": "sprites/ResetAll/ResetAll.yy",
   },
   "spriteMaskId": null,
   "visible": true,
