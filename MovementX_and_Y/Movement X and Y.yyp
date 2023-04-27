@@ -81,6 +81,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Button2","path":"objects/Button2/Button2.yy",},},
+    {"id":{"name":"menu_button_click","path":"sounds/menu_button_click/menu_button_click.yy",},},
     {"id":{"name":"item_display","path":"objects/item_display/item_display.yy",},},
     {"id":{"name":"Red3","path":"sprites/Red3/Red3.yy",},},
     {"id":{"name":"fence","path":"objects/fence/fence.yy",},},

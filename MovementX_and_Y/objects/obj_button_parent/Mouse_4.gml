@@ -1,0 +1,1 @@
+audio_play_sound(menu_button_click, 8, false)

@@ -60,6 +60,7 @@
     {"name":"objWarpController","order":12,"path":"objects/objWarpController/objWarpController.yy",},
     {"name":"obj_wall","order":26,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Button2","order":21,"path":"objects/Button2/Button2.yy",},
+    {"name":"menu_button_click","order":1,"path":"sounds/menu_button_click/menu_button_click.yy",},
     {"name":"item_display","order":11,"path":"objects/item_display/item_display.yy",},
     {"name":"Red3","order":24,"path":"sprites/Red3/Red3.yy",},
     {"name":"fence","order":6,"path":"objects/fence/fence.yy",},
