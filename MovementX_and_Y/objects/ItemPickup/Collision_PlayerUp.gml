@@ -12,17 +12,25 @@ if (l36A80A26_0)
 	/// @DnDParent : 36A80A26
 	instance_destroy();
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 4DE909C3
+	/// @DnDParent : 36A80A26
+	/// @DnDArgument : "soundid" "item_pickup"
+	/// @DnDSaveInfo : "soundid" "item_pickup"
+	audio_play_sound(item_pickup, 0, 0, 1.0, undefined, 1.0);
+
 	/// @DnDAction : YoYo Games.Particles.Effect
 	/// @DnDVersion : 1
 	/// @DnDHash : 592D568B
 	/// @DnDParent : 36A80A26
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "type" "4"
+	/// @DnDArgument : "type" "6"
 	/// @DnDArgument : "where" "1"
 	/// @DnDArgument : "size" "2"
-	/// @DnDArgument : "color" "$FF0000FF"
-	effect_create_above(4, x + 0, y + 0, 2, $FF0000FF & $ffffff);
+	/// @DnDArgument : "color" "$FF00D4FF"
+	effect_create_above(6, x + 0, y + 0, 2, $FF00D4FF & $ffffff);
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
