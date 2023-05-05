@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room7",
+  "name": "julia",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
