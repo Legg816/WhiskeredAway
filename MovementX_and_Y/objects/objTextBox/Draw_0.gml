@@ -4,6 +4,7 @@ textY = 840
 draw_sprite(textBoxBG, 0, textX,textY)
 
 draw_set_font(mainFont)
+draw_set_color(#000000)
 
 if (charCount < string_length(text[line])) {
 	charCount += 1

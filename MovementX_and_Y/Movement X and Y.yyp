@@ -35,6 +35,7 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"OwnerNPC","path":"objects/OwnerNPC/OwnerNPC.yy",},},
     {"id":{"name":"james","path":"rooms/james/james.yy",},},
     {"id":{"name":"ryan","path":"rooms/ryan/ryan.yy",},},
     {"id":{"name":"obj_insidewall","path":"sprites/obj_insidewall/obj_insidewall.yy",},},
@@ -119,6 +120,7 @@
     {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
     {"id":{"name":"Red1","path":"sprites/Red1/Red1.yy",},},
+    {"id":{"name":"Owner","path":"sprites/Owner/Owner.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"spr_Inventory_Selected","path":"sprites/spr_Inventory_Selected/spr_Inventory_Selected.yy",},},
     {"id":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},},

@@ -16,6 +16,7 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"OwnerNPC","order":36,"path":"objects/OwnerNPC/OwnerNPC.yy",},
     {"name":"james","order":5,"path":"rooms/james/james.yy",},
     {"name":"ryan","order":7,"path":"rooms/ryan/ryan.yy",},
     {"name":"obj_insidewall","order":7,"path":"sprites/obj_insidewall/obj_insidewall.yy",},
@@ -95,6 +96,7 @@
     {"name":"mainFont","order":21,"path":"fonts/mainFont/mainFont.yy",},
     {"name":"obj_gate","order":35,"path":"objects/obj_gate/obj_gate.yy",},
     {"name":"Red1","order":16,"path":"sprites/Red1/Red1.yy",},
+    {"name":"Owner","order":32,"path":"sprites/Owner/Owner.yy",},
     {"name":"spr_Inventory_Selected","order":28,"path":"sprites/spr_Inventory_Selected/spr_Inventory_Selected.yy",},
     {"name":"objWarpToRoom","order":3,"path":"objects/objWarpToRoom/objWarpToRoom.yy",},
     {"name":"puzzle_fanfare","order":3,"path":"sounds/puzzle_fanfare/puzzle_fanfare.yy",},
