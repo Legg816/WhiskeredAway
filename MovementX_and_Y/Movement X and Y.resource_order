@@ -16,6 +16,8 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Room5","order":5,"path":"rooms/Room5/Room5.yy",},
+    {"name":"Room7","order":7,"path":"rooms/Room7/Room7.yy",},
     {"name":"obj_insidewall","order":7,"path":"sprites/obj_insidewall/obj_insidewall.yy",},
     {"name":"menu_screen","order":17,"path":"sprites/menu_screen/menu_screen.yy",},
     {"name":"hint_wall","order":25,"path":"sprites/hint_wall/hint_wall.yy",},
@@ -64,6 +66,7 @@
     {"name":"obj_Item","order":30,"path":"objects/obj_Item/obj_Item.yy",},
     {"name":"Sprite13","order":15,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"map","order":13,"path":"sprites/map/map.yy",},
+    {"name":"Room6","order":6,"path":"rooms/Room6/Room6.yy",},
     {"name":"ResetAll","order":22,"path":"sprites/ResetAll/ResetAll.yy",},
     {"name":"objWarpController","order":12,"path":"objects/objWarpController/objWarpController.yy",},
     {"name":"obj_wall","order":8,"path":"objects/obj_wall/obj_wall.yy",},
