@@ -49,9 +49,3 @@ if(keyboard_check_released(ord("D"))) {
 	sprite_index = OliverRight;
 	image_index = 0;
 }
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 5E29A198
-/// @DnDArgument : "var" "pots_collected"
-pots_collected = 0;

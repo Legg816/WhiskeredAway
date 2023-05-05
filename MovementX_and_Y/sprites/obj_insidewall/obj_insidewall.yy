@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Puzzle Room Inside House",
+    "path": "folders/Objects/Puzzle Room Inside House.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

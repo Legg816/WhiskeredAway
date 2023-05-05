@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Puzzle Room Inside House",
+    "path": "folders/Objects/Puzzle Room Inside House.yy",
   },
   "parentObjectId": null,
   "persistent": false,

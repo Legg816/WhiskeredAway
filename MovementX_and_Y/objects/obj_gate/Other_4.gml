@@ -1,0 +1,1 @@
+instance_create_layer(500, 50 , "Instances_5", obj_gate);
