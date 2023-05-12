@@ -91,6 +91,7 @@
     {"name":"Environment1","order":10,"path":"sprites/Environment1/Environment1.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"MovementDown","order":6,"path":"sprites/MovementDown/MovementDown.yy",},
+    {"name":"Sprite45","order":33,"path":"sprites/Sprite45/Sprite45.yy",},
     {"name":"ItemPickup","order":1,"path":"objects/ItemPickup/ItemPickup.yy",},
     {"name":"item_pickup","order":4,"path":"sounds/item_pickup/item_pickup.yy",},
     {"name":"mainFont","order":21,"path":"fonts/mainFont/mainFont.yy",},

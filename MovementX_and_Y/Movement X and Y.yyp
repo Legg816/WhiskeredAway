@@ -115,6 +115,7 @@
     {"id":{"name":"Environment1","path":"sprites/Environment1/Environment1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"MovementDown","path":"sprites/MovementDown/MovementDown.yy",},},
+    {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},},
     {"id":{"name":"ItemPickup","path":"objects/ItemPickup/ItemPickup.yy",},},
     {"id":{"name":"item_pickup","path":"sounds/item_pickup/item_pickup.yy",},},
     {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},},
