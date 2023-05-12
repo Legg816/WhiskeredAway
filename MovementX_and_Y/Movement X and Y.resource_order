@@ -72,6 +72,7 @@
     {"name":"julia","order":6,"path":"rooms/julia/julia.yy",},
     {"name":"ResetAll","order":22,"path":"sprites/ResetAll/ResetAll.yy",},
     {"name":"objWarpController","order":12,"path":"objects/objWarpController/objWarpController.yy",},
+    {"name":"obj_collision","order":37,"path":"objects/obj_collision/obj_collision.yy",},
     {"name":"obj_wall","order":8,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Button2","order":1,"path":"objects/Button2/Button2.yy",},
     {"name":"menu_button_click","order":1,"path":"sounds/menu_button_click/menu_button_click.yy",},

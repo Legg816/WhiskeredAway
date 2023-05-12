@@ -96,6 +96,7 @@
     {"id":{"name":"ResetAll","path":"sprites/ResetAll/ResetAll.yy",},},
     {"id":{"name":"objWarpController","path":"objects/objWarpController/objWarpController.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Button2","path":"objects/Button2/Button2.yy",},},
     {"id":{"name":"menu_button_click","path":"sounds/menu_button_click/menu_button_click.yy",},},
