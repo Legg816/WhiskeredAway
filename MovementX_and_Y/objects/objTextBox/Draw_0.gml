@@ -17,6 +17,9 @@ if is_array(text[line]) {
 	
 	if (charCount < string_length(textPrint)) {
 		charCount += 1
+		if (charCount mod 4 == 0) {
+			audio_play_sound(voice, 10, false)
+		}
 	}
 }
 else {
