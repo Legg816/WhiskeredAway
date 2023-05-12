@@ -57,6 +57,7 @@
     {"id":{"name":"obj_hint_wall","path":"objects/obj_hint_wall/obj_hint_wall.yy",},},
     {"id":{"name":"menu_hover","path":"sounds/menu_hover/menu_hover.yy",},},
     {"id":{"name":"checkKey","path":"objects/checkKey/checkKey.yy",},},
+    {"id":{"name":"voice1","path":"sounds/voice1/voice1.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"objTextBox","path":"objects/objTextBox/objTextBox.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},

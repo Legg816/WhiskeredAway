@@ -38,6 +38,7 @@
     {"name":"obj_hint_wall","order":5,"path":"objects/obj_hint_wall/obj_hint_wall.yy",},
     {"name":"menu_hover","order":2,"path":"sounds/menu_hover/menu_hover.yy",},
     {"name":"checkKey","order":34,"path":"objects/checkKey/checkKey.yy",},
+    {"name":"voice1","order":7,"path":"sounds/voice1/voice1.yy",},
     {"name":"Sprite11","order":9,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"objTextBox","order":24,"path":"objects/objTextBox/objTextBox.yy",},
     {"name":"rm_menu","order":4,"path":"rooms/rm_menu/rm_menu.yy",},
