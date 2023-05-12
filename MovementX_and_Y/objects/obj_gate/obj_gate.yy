@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite42",
-    "path": "sprites/Sprite42/Sprite42.yy",
+    "name": "Gate",
+    "path": "sprites/Gate/Gate.yy",
   },
   "spriteMaskId": null,
   "visible": true,

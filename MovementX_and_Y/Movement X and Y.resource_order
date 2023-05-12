@@ -16,6 +16,7 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Gate","order":34,"path":"sprites/Gate/Gate.yy",},
     {"name":"OwnerNPC","order":36,"path":"objects/OwnerNPC/OwnerNPC.yy",},
     {"name":"james","order":5,"path":"rooms/james/james.yy",},
     {"name":"ryan","order":7,"path":"rooms/ryan/ryan.yy",},

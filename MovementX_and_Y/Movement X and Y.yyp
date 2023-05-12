@@ -35,6 +35,7 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"Gate","path":"sprites/Gate/Gate.yy",},},
     {"id":{"name":"OwnerNPC","path":"objects/OwnerNPC/OwnerNPC.yy",},},
     {"id":{"name":"james","path":"rooms/james/james.yy",},},
     {"id":{"name":"ryan","path":"rooms/ryan/ryan.yy",},},
