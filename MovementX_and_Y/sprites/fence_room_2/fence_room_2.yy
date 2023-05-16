@@ -5,7 +5,7 @@
   "bbox_bottom": 125,
   "bbox_left": 0,
   "bbox_right": 1302,
-  "bbox_top": 29,
+  "bbox_top": 101,
   "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Room2",
+    "path": "folders/Sprites/Room2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
