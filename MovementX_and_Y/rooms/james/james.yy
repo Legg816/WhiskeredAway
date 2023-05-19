@@ -26,7 +26,6 @@
     {"name":"inst_5F58DA16","path":"rooms/james/james.yy",},
     {"name":"inst_1EFDBCE","path":"rooms/james/james.yy",},
     {"name":"inst_6DCC590A","path":"rooms/james/james.yy",},
-    {"name":"inst_387772BB","path":"rooms/james/james.yy",},
     {"name":"inst_1C7717DE","path":"rooms/james/james.yy",},
     {"name":"inst_6D745B0A","path":"rooms/james/james.yy",},
     {"name":"inst_4D040890","path":"rooms/james/james.yy",},
@@ -53,7 +52,6 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Oliver","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7664DE62","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":736.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_387772BB","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":true,"objectId":{"name":"obj_map_toggle","path":"objects/obj_map_toggle/obj_map_toggle.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-384.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Behind_Oliver","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5B7E3EC5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_signpost","path":"objects/obj_signpost/obj_signpost.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":974.0,"y":217.0,},
