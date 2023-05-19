@@ -44,6 +44,7 @@
     {"id":{"name":"james","path":"rooms/james/james.yy",},},
     {"id":{"name":"signpost","path":"sprites/signpost/signpost.yy",},},
     {"id":{"name":"ryan","path":"rooms/ryan/ryan.yy",},},
+    {"id":{"name":"obj_map_toggle","path":"objects/obj_map_toggle/obj_map_toggle.yy",},},
     {"id":{"name":"obj_insidewall","path":"sprites/obj_insidewall/obj_insidewall.yy",},},
     {"id":{"name":"menu_screen","path":"sprites/menu_screen/menu_screen.yy",},},
     {"id":{"name":"hint_wall","path":"sprites/hint_wall/hint_wall.yy",},},

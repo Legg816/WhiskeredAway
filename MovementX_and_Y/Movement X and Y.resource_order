@@ -25,6 +25,7 @@
     {"name":"james","order":5,"path":"rooms/james/james.yy",},
     {"name":"signpost","order":5,"path":"sprites/signpost/signpost.yy",},
     {"name":"ryan","order":7,"path":"rooms/ryan/ryan.yy",},
+    {"name":"obj_map_toggle","order":41,"path":"objects/obj_map_toggle/obj_map_toggle.yy",},
     {"name":"obj_insidewall","order":7,"path":"sprites/obj_insidewall/obj_insidewall.yy",},
     {"name":"menu_screen","order":17,"path":"sprites/menu_screen/menu_screen.yy",},
     {"name":"hint_wall","order":25,"path":"sprites/hint_wall/hint_wall.yy",},
