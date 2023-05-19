@@ -13,9 +13,9 @@
     {"name":"Scripts","order":13,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
     {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Room2","order":41,"path":"folders/Sprites/Room2.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
-    {"name":"Room2","order":41,"path":"folders/Sprites/Room2.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Gate","order":34,"path":"sprites/Gate/Gate.yy",},
@@ -37,6 +37,7 @@
     {"name":"ResetButton","order":4,"path":"objects/ResetButton/ResetButton.yy",},
     {"name":"obj_controls","order":4,"path":"objects/obj_controls/obj_controls.yy",},
     {"name":"Map_obj","order":8,"path":"objects/Map_obj/Map_obj.yy",},
+    {"name":"sprTilesetGrass","order":42,"path":"sprites/sprTilesetGrass/sprTilesetGrass.yy",},
     {"name":"textBoxBG","order":19,"path":"sprites/textBoxBG/textBoxBG.yy",},
     {"name":"david","order":2,"path":"rooms/david/david.yy",},
     {"name":"obj_map_toggle","order":9,"path":"objects/obj_map_toggle/obj_map_toggle.yy",},
