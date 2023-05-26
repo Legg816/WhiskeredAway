@@ -4,16 +4,13 @@
   "name": "tsGrass",
   "autoTileSets": [],
   "macroPageTiles": {
-    "SerialiseHeight": 3,
-    "SerialiseWidth": 2,
-    "TileSerialiseData": [
-      0,
-      30,
-      0,
-      30,
-      0,
-      30,
+    "SerialiseHeight": 5,
+    "SerialiseWidth": 7,
+    "TileCompressedData": [
+      -35,
+      15,
     ],
+    "TileDataFormat": 1,
   },
   "out_columns": 8,
   "out_tilehborder": 2,
