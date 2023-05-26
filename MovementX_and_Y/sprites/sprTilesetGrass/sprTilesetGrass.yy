@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sprTilesetGrass",
-  "bbox_bottom": 389,
-  "bbox_left": 12,
-  "bbox_right": 1313,
+  "bbox_bottom": 1577,
+  "bbox_left": 6,
+  "bbox_right": 653,
   "bbox_top": 12,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7bf148f-90f0-4a16-9c37-949066ea5823",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8fe6ab74-8e58-427f-8fe1-ef51be39fd0f",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 540,
+  "height": 1590,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"55fd7227-200a-44fb-9f0c-ed5b090e53a2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"131c21d8-8e15-498f-9075-f5b9da809dd5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d7bf148f-90f0-4a16-9c37-949066ea5823","path":"sprites/sprTilesetGrass/sprTilesetGrass.yy",},},},"Disabled":false,"id":"37919399-d545-4e0a-aae0-978576b9454a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8fe6ab74-8e58-427f-8fe1-ef51be39fd0f","path":"sprites/sprTilesetGrass/sprTilesetGrass.yy",},},},"Disabled":false,"id":"5c51ce76-0909-4874-9df0-ef512865f6b1","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1326,
+  "width": 666,
 }
