@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_3barrels",
-  "eventList": [],
+  "name": "obj_crystal",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":73,"eventType":8,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -24,10 +27,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "spr_barrel",
-    "path": "sprites/spr_barrel/spr_barrel.yy",
+    "name": "spr_crystal",
+    "path": "sprites/spr_crystal/spr_crystal.yy",
   },
   "spriteMaskId": null,
   "visible": true,

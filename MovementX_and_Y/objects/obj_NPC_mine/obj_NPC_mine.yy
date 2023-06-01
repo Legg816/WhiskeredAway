@@ -1,15 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_3barrels",
-  "eventList": [],
+  "name": "obj_NPC_mine",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Mine",
     "path": "folders/Objects/Mine.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objParentDialogue",
+    "path": "objects/objParentDialogue/objParentDialogue.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -24,10 +29,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "spr_barrel",
-    "path": "sprites/spr_barrel/spr_barrel.yy",
+    "name": "spr_NPC_mine",
+    "path": "sprites/spr_NPC_mine/spr_NPC_mine.yy",
   },
   "spriteMaskId": null,
   "visible": true,

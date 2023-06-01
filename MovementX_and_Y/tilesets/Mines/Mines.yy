@@ -7,7 +7,11 @@
     "SerialiseHeight": 2,
     "SerialiseWidth": 5,
     "TileCompressedData": [
-      -10,
+      -5,
+      0,
+      1,
+      5,
+      -4,
       0,
     ],
     "TileDataFormat": 1,
