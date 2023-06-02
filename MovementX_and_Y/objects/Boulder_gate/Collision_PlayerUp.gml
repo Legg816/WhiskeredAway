@@ -1,5 +1,4 @@
-if (global.key_check == 1)
+if (global.pickaxe_check == 1)
 {
-	instance_destroy(Boulder_gate)
-	instance_destroy(item_display)
+	sprite_index = Boulder_gate2
 }
