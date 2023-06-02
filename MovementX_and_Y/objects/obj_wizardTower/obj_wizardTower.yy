@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "checkKey",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_wizardTower",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Notes/Objects.yy",
+    "name": "Wizard's Room",
+    "path": "folders/Notes/Objects/Wizard's Room.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +24,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
-  "spriteId": null,
+  "solid": true,
+  "spriteId": {
+    "name": "sprWizardTower",
+    "path": "sprites/sprWizardTower/sprWizardTower.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

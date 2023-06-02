@@ -1,1 +1,0 @@
-global.key_check = 0;

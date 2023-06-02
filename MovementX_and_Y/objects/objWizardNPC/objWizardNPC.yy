@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Notes/Objects.yy",
+    "name": "Wizard's Room",
+    "path": "folders/Notes/Objects/Wizard's Room.yy",
   },
   "parentObjectId": {
     "name": "objParentDialogue",
