@@ -16,6 +16,7 @@
     {"name":"inst_70FC5D67","path":"rooms/julia/julia.yy",},
     {"name":"inst_E3A3993","path":"rooms/julia/julia.yy",},
     {"name":"inst_6A058DDE","path":"rooms/julia/julia.yy",},
+    {"name":"inst_AF2C3B1","path":"rooms/julia/julia.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -23,7 +24,13 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D7AA97E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_map_toggle","path":"objects/obj_map_toggle/obj_map_toggle.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-384.0,"y":192.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Text","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Oliver","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Oliver","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_AF2C3B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"targetRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"james",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"xPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"150",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"yPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"425",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1856.0,"y":992.0,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_3","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_70FC5D67","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Stump2","path":"objects/Stump2/Stump2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_E3A3993","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Stump","path":"objects/Stump/Stump.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1600.0,"y":288.0,},

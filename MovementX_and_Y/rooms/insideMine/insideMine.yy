@@ -20,7 +20,6 @@
     {"name":"inst_35B02223","path":"rooms/insideMine/insideMine.yy",},
     {"name":"inst_4D51D538","path":"rooms/insideMine/insideMine.yy",},
     {"name":"inst_5EAA3B19","path":"rooms/insideMine/insideMine.yy",},
-    {"name":"inst_20C1324A","path":"rooms/insideMine/insideMine.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -49,7 +48,6 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"xPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"834",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"yPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"365",},
           ],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":448.0,"y":928.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_20C1324A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":672.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"BehindOliver","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_40F1AF9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_crystal","path":"objects/obj_crystal/obj_crystal.yy",},"properties":[],"rotation":0.0,"scaleX":0.9111111,"scaleY":0.89333344,"x":896.0,"y":320.0,},
