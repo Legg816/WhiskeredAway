@@ -6,6 +6,12 @@ if (place_meeting(x,y, PlayerUp)) {
 		}
 	}
 	if (keyboard_check_pressed(vk_enter)) {
+		
+		if(myTextBox != noone) {
+			instance_destroy(myTextBox)
+			myTextBox = noone;
+		}
+	
 		if global.questStatus == 0 {
 			if global.crystal_check == 0 {
 				myText = []
@@ -26,9 +32,15 @@ if (place_meeting(x,y, PlayerUp)) {
 		if global.questStatus == 1 {
 			if global.crystal_check == 1 {
 				myText = []
-				myText[1] = "I'll get to preparing the spell now, and it'll be ready for you tomorrow."
+				myText[0] = "I'll get to preparing the spell now, and it'll be ready for you tomorrow."
 				global.questStatus = 2;
 			}
+		}
+		
+		if global.questStatus == 2 {
+			myText = []
+			global.crystal_check = 0
+			myText[0] = "I'll get to preparing the spell now, and it'll be ready for you tomorrow."
 		}
 	}
 }

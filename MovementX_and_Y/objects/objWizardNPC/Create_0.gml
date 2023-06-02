@@ -1,5 +1,4 @@
 myTextBox = noone;
-global.questStatus = 0;
 
 // quest status: not started
 if global.questStatus == 0 {
