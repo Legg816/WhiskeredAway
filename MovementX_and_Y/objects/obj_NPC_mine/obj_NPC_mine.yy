@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Mine",
-    "path": "folders/Objects/Mine.yy",
+    "path": "folders/Notes/Objects/Mine.yy",
   },
   "parentObjectId": {
     "name": "objParentDialogue",

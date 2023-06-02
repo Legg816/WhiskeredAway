@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "obj_insidewall",
-  "bbox_bottom": 247,
+  "name": "sprWizardTower",
+  "bbox_bottom": 949,
   "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_right": 319,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"78bbf3ff-ce3f-495b-8239-60a5f1e0f427",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f4611ee8-783e-4a7d-acfb-7d8f35d3cd3d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 256,
+  "height": 950,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c6ebaf35-6fb4-4074-8934-9cd750e449ee","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b4feb1c4-7f7c-4a7a-98cb-bb21f2bb4dd7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Puzzle Room Inside House",
-    "path": "folders/Notes/Objects/Puzzle Room Inside House.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "obj_insidewall",
+    "name": "sprWizardTower",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"78bbf3ff-ce3f-495b-8239-60a5f1e0f427","path":"sprites/obj_insidewall/obj_insidewall.yy",},},},"Disabled":false,"id":"04e4e6df-eec7-4851-bd7c-9d6a0cdf133a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f4611ee8-783e-4a7d-acfb-7d8f35d3cd3d","path":"sprites/sprWizardTower/sprWizardTower.yy",},},},"Disabled":false,"id":"97139756-82de-454c-bf75-3acbccb4db66","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 320,
 }

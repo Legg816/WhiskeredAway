@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Puzzle Room Inside House",
-    "path": "folders/Objects/Puzzle Room Inside House.yy",
+    "path": "folders/Notes/Objects/Puzzle Room Inside House.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

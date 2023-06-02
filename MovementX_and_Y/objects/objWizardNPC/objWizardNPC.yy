@@ -1,15 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_collision",
-  "eventList": [],
+  "name": "objWizardNPC",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Notes/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objParentDialogue",
+    "path": "objects/objParentDialogue/objParentDialogue.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -24,11 +30,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "Sprite6",
-    "path": "sprites/Sprite6/Sprite6.yy",
+    "name": "sprWizard",
+    "path": "sprites/sprWizard/sprWizard.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

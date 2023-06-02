@@ -22,6 +22,7 @@
     {"name":"inst_2C4C8E52","path":"rooms/ryan/ryan.yy",},
     {"name":"inst_3E5CAE8A","path":"rooms/ryan/ryan.yy",},
     {"name":"inst_26E02973","path":"rooms/ryan/ryan.yy",},
+    {"name":"inst_19920C05","path":"rooms/ryan/ryan.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -29,6 +30,11 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_26E02973","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_NPC_mine","path":"objects/obj_NPC_mine/obj_NPC_mine.yy",},"properties":[],"rotation":0.0,"scaleX":0.21777777,"scaleY":0.22285715,"x":384.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19920C05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"targetRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"julia",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"xPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"100",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objWarpToRoom","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"propertyId":{"name":"yPosition","path":"objects/objWarpToRoom/objWarpToRoom.yy",},"value":"200",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":768.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"map_layer","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"InFrontOfOliver","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
