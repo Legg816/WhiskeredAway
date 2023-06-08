@@ -40,6 +40,7 @@ if (place_meeting(x,y, PlayerUp)) {
 		if global.questStatus == 2 {
 			myText = []
 			global.crystal_check = 0
+			room_goto(ending)
 			myText[0] = "I'll get to preparing the spell now, and it'll be ready for you tomorrow."
 		}
 	}

@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Wizard's Room",
-    "path": "folders/Notes/Objects/Wizard's Room.yy",
+    "path": "folders/Objects/Wizard's Room.yy",
   },
   "parentObjectId": {
     "name": "objParentDialogue",

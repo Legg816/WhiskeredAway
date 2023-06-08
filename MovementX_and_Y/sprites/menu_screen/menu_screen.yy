@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Objects",
-    "path": "folders/Notes/Objects.yy",
+    "path": "folders/Objects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

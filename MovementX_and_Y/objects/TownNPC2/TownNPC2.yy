@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Town Objects",
-    "path": "folders/Notes/Objects/Town Objects.yy",
+    "path": "folders/Objects/Town Objects.yy",
   },
   "parentObjectId": {
     "name": "objParentDialogue",

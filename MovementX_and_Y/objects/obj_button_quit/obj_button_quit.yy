@@ -11,7 +11,7 @@
   ],
   "parent": {
     "name": "Menu Objects",
-    "path": "folders/Notes/Objects/Menu Objects.yy",
+    "path": "folders/Objects/Menu Objects.yy",
   },
   "parentObjectId": {
     "name": "obj_button_parent",

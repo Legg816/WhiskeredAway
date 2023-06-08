@@ -1,17 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ResetButton",
+  "name": "Object56",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"PlayerUp","path":"objects/PlayerUp/PlayerUp.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Puzzle Room Inside House",
-    "path": "folders/Objects/Puzzle Room Inside House.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objParentDialogue",
+    "path": "objects/objParentDialogue/objParentDialogue.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ResetAll",
-    "path": "sprites/ResetAll/ResetAll.yy",
+    "name": "hint_wall",
+    "path": "sprites/hint_wall/hint_wall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

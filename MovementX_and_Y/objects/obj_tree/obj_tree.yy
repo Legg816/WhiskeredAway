@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Room 2",
-    "path": "folders/Notes/Objects/Room 2.yy",
+    "path": "folders/Objects/Room 2.yy",
   },
   "parentObjectId": null,
   "persistent": false,
