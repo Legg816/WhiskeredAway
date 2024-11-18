@@ -1,3 +1,0 @@
-My name is Ryan Legg and I am a first year Computer Science major at Drexel University with about 3 years of experience in Python, and some exposure in HTML and Java.  
-My goal in this program are to be able to create things that I am happy with and that hopefully benefit others, making advancements in the field along the way. 
-I am excited to be able to create and share our game, Whiskered Away. 
